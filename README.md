@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 - 🔭 I work with ```.js```, ```.css```, ```.html```  
 - 🌱 I’m currently learning **React.js**
-- 👯 Looking for job as a front-end developer
+- 👯 Working as a web developer
 - 📫 How to reach me: elena.mb.711@gmail.com
-- ⚡ Fun fact: my Duolingo day streak is 550+ days 
+- ⚡ Fun fact: my Duolingo day streak is 650+ days 
